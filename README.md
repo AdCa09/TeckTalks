@@ -20,6 +20,11 @@ Ce repository contient différents documents couvrant divers sujets techniques. 
 4. **Alpine.js** ⚡🔧
    - Introduction à Alpine.js, un framework JavaScript léger pour créer des interfaces utilisateur interactives. Apprenez à intégrer Alpine.js dans vos projets web pour une réactivité accrue avec un code minimal.
 
+5. **Go** 🚀📈
+
+   - Introduction à Go : Découvrez Go, un langage de programmation moderne conçu pour la simplicité, la performance et la gestion efficace de la concurrence. Explorez comment Go est utilisé dans des domaines comme le développement de microservices, les outils CLI, et 
+     les systèmes cloud. Apprenez comment ses caractéristiques uniques, telles que les goroutines et les canaux, facilitent la création d’applications concurrentes et évolutives.
+   
 ## 🚀 Comment Contribuer
 
 Si vous souhaitez contribuer à ce repository ou proposer des améliorations, n'hésitez pas à ouvrir une *issue* ou à soumettre une *pull request*. Vos contributions sont les bienvenues !
