@@ -1,39 +1,36 @@
 # 📚 Techtalks BeCode Repository
 
-Bienvenue dans le repository dédié à mes techtalks réalisés dans le cadre de ma formation chez BeCode ! Ici, vous trouverez des présentations et documents sur diverses technologies et outils que j'ai explorés.
+Welcome to the repository dedicated to my techtalks conducted as part of my training at BeCode! Here, you will find presentations and documents on various technologies and tools I have explored. **All files with my techtalks are in French.**
 
-## 🗂️ Contenu du Repository
+## 🗂️ Repository Content
 
-Ce repository contient différents documents couvrant divers sujets techniques. Voici quelques-uns des techtalks que vous pouvez retrouver :
+This repository contains various documents covering different technical topics. Here are some of the techtalks you can find:
 
-### 📑 Techtalks Disponibles
+### 📑 Available Techtalks
 
-1. **La Médecine et l’IA** 🏥🤖
-   - Un aperçu sur l'impact de l'intelligence artificielle dans le domaine médical. Découvrez comment l'IA révolutionne la médecine, améliore les diagnostics et personnalise les traitements.
+1. **Medicine and AI** 🏥🤖
+   - An overview of the impact of artificial intelligence in the medical field. Discover how AI is revolutionizing medicine, improving diagnostics, and personalizing treatments.
 
-2. **Fusion Homme-Machine** 🔗👤
-   - Discussion sur la synergie entre l'homme et la machine. Comment les technologies émergentes transforment notre interaction avec les systèmes informatiques et augmentent nos capacités.
+2. **Human-Machine Fusion** 🔗👤
+   - A discussion on the synergy between humans and machines. How emerging technologies are transforming our interaction with computer systems and enhancing our capabilities.
 
-3. **Données Biométriques** 📊🔍
-   - Un regard approfondi sur les données biométriques : qu'est-ce que c'est, comment elles sont utilisées, et quelles sont les implications pour la sécurité et la vie privée.
+3. **Biometric Data** 📊🔍
+   - A deep dive into biometric data: what it is, how it is used, and the implications for security and privacy.
 
 4. **Alpine.js** ⚡🔧
-   - Introduction à Alpine.js, un framework JavaScript léger pour créer des interfaces utilisateur interactives. Apprenez à intégrer Alpine.js dans vos projets web pour une réactivité accrue avec un code minimal.
+   - Introduction to Alpine.js, a lightweight JavaScript framework for building interactive user interfaces. Learn how to integrate Alpine.js into your web projects for increased reactivity with minimal code.
 
 5. **Go** 🚀📈
+   - Introduction to Go: Discover Go, a modern programming language designed for simplicity, performance, and efficient concurrency management. Explore how Go is used in fields such as microservices development, CLI tools, and cloud systems. Learn how its unique features, such as goroutines and channels, facilitate the creation of concurrent and scalable applications.
 
-   - Introduction à Go : Découvrez Go, un langage de programmation moderne conçu pour la simplicité, la performance et la gestion efficace de la concurrence. Explorez comment Go est utilisé dans des domaines comme le développement de microservices, les outils CLI, et 
-     les systèmes cloud. Apprenez comment ses caractéristiques uniques, telles que les goroutines et les canaux, facilitent la création d’applications concurrentes et évolutives.
-   
-## 🚀 Comment Contribuer
+## 🚀 How to Contribute
 
-Si vous souhaitez contribuer à ce repository ou proposer des améliorations, n'hésitez pas à ouvrir une *issue* ou à soumettre une *pull request*. Vos contributions sont les bienvenues !
+If you wish to contribute to this repository or propose improvements, feel free to open an *issue* or submit a *pull request*. Your contributions are welcome!
 
 ## 📬 Contact
 
-Pour toute question ou remarque, vous pouvez me contacter via [mon adresse email](mailto:caufriezadrien0@gmail.com).
+For any questions or feedback, you can contact me via [my email address](mailto:caufriezadrien0@gmail.com).
 
 ---
 
-Merci de votre visite et bonne exploration des techtalks ! 🌟
-
+Thank you for visiting and happy exploration of the techtalks! 🌟
